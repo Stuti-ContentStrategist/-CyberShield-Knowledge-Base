@@ -1,65 +1,33 @@
-# 🧩CyberShield Security Suite SDK
+# 💡 CyberShield Knowledge Base
 
 ## 🧱 Overview
 
-The **CyberShield Security Suite SDK** provides enterprise-grade detection, response, and API security for both cloud and on-prem environments.
+The **CyberShield Knowledge Base** is a searchable collection of short, solution-focused articles designed to help you troubleshoot issues, configure modules, and optimize your CyberShield setup quickly.
 
-Built for **security engineers** and **platform developers**, it combines AI-driven threat detection, automated incident response, and secure data exchange into a single integration framework.
-
-***
-
-#### ⚡ Quick Snapshot
-
-**Audience:** Security teams, platform engineers, and system integrators\
-**Primary Capabilities:** Threat detection, incident response automation, secure API gateway, centralized observability, and flexible SDKs for integration\
-**Latest Release:** v5.0.0 — major update featuring AI detection, secure API gateway, and enhanced MFA\
-📄 _See also:_ Release Notes → v5.0.0
-
-***
-
-#### 🔑 Key Capabilities
-
-* **Advanced Threat Detection** — Real-time AI-assisted anomaly detection across endpoints, network, and cloud telemetry.
-* **Automated Incident Response** — Predefined playbooks for containment and remediation that reduce mean time to respond.
-* **Integrated Secure API Gateway** — Centralized access control and encrypted communication for both internal and external integrations.
-* **Centralized Dashboard & Analytics** — Unified view of alerts, audit trails, and performance metrics.
-* **Flexible SDKs & APIs** — Language-agnostic SDKs that allow fast embedding into services and automation pipelines.
-
-***
-
-#### 👥 Who This Is For
-
-* **Security Engineers** who need real-time detection and orchestration of incident response.
-* **Platform / DevOps Teams** integrating security scans and telemetry into CI/CD or observability pipelines.
-* **Integrators & Partners** embedding CyberShield features or building connectors for third-party solutions.
-
-> 💡 **Tip:** The SDK is modular — integrate only the components your environment needs.
+💡 **Tip:** Use the search bar or sidebar navigation to locate articles by topic (e.g., installation, activation, or scans).
 
 ***
 
 ### 📚 Explore the Documentation
 
-| **Category**                                   | **Description**                                                                |
-| ---------------------------------------------- | ------------------------------------------------------------------------------ |
-| [🚀 **Getting Started**](broken-reference)     | Learn about SDK system requirements, folder structure, and installation setup. |
-| [🧩 **Developer Reference**](broken-reference) | Find integration steps, configuration examples, and authentication guidelines. |
-| [📘 **User Guide**](broken-reference)          | Explore the SDK dashboard, manage policies, and set up alerts.                 |
-| [🧰 **Troubleshooting**](broken-reference)     | Review FAQs and error tables for quick debugging and resolution tips.          |
+| **Category**                 | **Articles**                                                                                                                                                                                                                                                                                                          | **Description**                                                                                                                     |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| ⚙️ **Installation & Setup**  | <p>- <a href="how-to-install-cybershield-security-suite.md">How to Install CyberShield Security Suite</a><br><a href="fixing-cybershield-activation-issues.md">- Fixing CyberShield Activation Issues</a><br><a href="how-to-update-cybershield-security-suite.md">- How to Update CyberShield Security Suite</a></p> | Learn how to download, install, activate, and update CyberShield quickly and securely.                                              |
+| 🧩 **Scanning & Protection** | <p><a href="how-to-run-a-full-system-scan.md">- How to Run a Full System Scan</a><br><a href="how-to-schedule-automatic-scans.md">- How to Schedule Automatic Scans</a><br><a href="how-to-enable-real-time-protection.md">- How to Enable Real-Time Protection</a></p>                                               | Configure CyberShield modules, schedule automated scans, and customize your security settings for continuous protection.            |
+| 🔐 **Security Reports**      | <p><a href="how-to-export-security-reports.md">- How to Export Security Reports</a><br><a href="how-to-restore-quarantined-files.md">- How to Restore Quarantined Files</a></p>                                                                                                                                       | Manage your reports, analyze results, and handle quarantined items efficiently to ensure peak performance.                          |
+| 🧰 **Troubleshooting**       | <p><a href="troubleshooting-slow-scans.md">- Troubleshooting Slow Scans</a><br><a href="how-to-contact-cybershield-support.md">- How to Contact CyberShield Support</a></p>                                                                                                                                           | Find quick fixes for scan delays, performance issues, and other common problems. Contact support when further assistance is needed. |
 
 ***
 
 ### 🎯 Purpose of This Suite
 
-This SDK documentation is part of the **CyberShield Security Suite Documentation Suite**, created to demonstrate expertise in:
+This Knowledge Base is part of the **CyberShield Security Suite Documentation**, created to demonstrate how user-focused, modular help content supports better adoption and faster problem-solving.
 
-* Writing developer-focused documentation with clear structure and examples.
-* Presenting API and SDK integration workflows in a modular, accessible format.
-* Balancing technical accuracy with readability for developers and engineers.
-* Implementing consistent standards across documentation suites.
+It highlights:
 
-> 🧠 **Info:** This SDK guide bridges technical depth and implementation clarity — showcasing developer enablement writing skills.
-
-***
+* Structuring articles for quick scanning and task-based learning.
+* Maintaining tone and clarity for diverse user audiences.
+* Integrating visual consistency across all CyberShield documents.
 
 ### 🧾 About the Author
 
@@ -67,7 +35,8 @@ This documentation is written and maintained by **Stuti**, a _Technical Writer a
 
 Her work bridges **technical accuracy** and **strategic communication**, helping readers — from end users to developers — understand, adopt, and engage with complex tools effortlessly.
 
-**Connect with the Author:**\
+#### **Connect with the Author:**
+
 [💼 LinkedIn](https://linkedin.com/in/stuti-sanghvi)\
 [💌 Email](mailto:stutisanghvi7@gmail.in)\
 [🌐 Portfolio (via Notion)](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\

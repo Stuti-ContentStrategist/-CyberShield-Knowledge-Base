@@ -1,28 +1,13 @@
 # Table of contents
 
-* [🧩CyberShield Security Suite SDK](README.md)
-
-## 🚀 Getting Started
-
-* [System Requirements](getting-started/system-requirements.md)
-* [Installation Guide](getting-started/installation-guide.md)
-* [Folder Structure](getting-started/folder-structure.md)
-
-## 🧩 Developer Reference
-
-* [Integration Setup](developer-reference/integration-setup.md)
-* [Configuration Examples](developer-reference/configuration-examples.md)
-* [Authentication](developer-reference/authentication.md)
-* [Error Handling](developer-reference/error-handling.md)
-
-## 📘 User Guide
-
-* [Using the Dashboard](user-guide/using-the-dashboard.md)
-* [Policies & Alerts](user-guide/policies-and-alerts.md)
-* [Best Practices](user-guide/best-practices.md)
-
-## &#x20;🧰 Troubleshooting
-
-* [FAQs](troubleshooting/faqs.md)
-* [Error Table](troubleshooting/error-table.md)
-* [Support Channels](troubleshooting/support-channels.md)
+* [💡 CyberShield Knowledge Base](README.md)
+* [🧩 How to Install CyberShield Security Suite](how-to-install-cybershield-security-suite.md)
+* [🦠 How to Run a Full System Scan](how-to-run-a-full-system-scan.md)
+* [⏰ How to Schedule Automatic Scans](how-to-schedule-automatic-scans.md)
+* [🔐 Fixing CyberShield Activation Issues](fixing-cybershield-activation-issues.md)
+* [📊 How to Export Security Reports](how-to-export-security-reports.md)
+* [🐢 Troubleshooting Slow Scans](troubleshooting-slow-scans.md)
+* [🧱 How to Update CyberShield Security Suite](how-to-update-cybershield-security-suite.md)
+* [🔐 How to Enable Real-Time Protection](how-to-enable-real-time-protection.md)
+* [🧰 How to Restore Quarantined Files](how-to-restore-quarantined-files.md)
+* [📋 How to Contact CyberShield Support](how-to-contact-cybershield-support.md)
