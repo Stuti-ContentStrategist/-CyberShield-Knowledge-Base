@@ -24,4 +24,4 @@ You now know how to:
 * Navigate product guides and best-practice articles
 * Use the knowledge base for quick, self-service support
 
-For deeper integration, automation workflows, and developer-focused examples, continue to the **CyberShield SDK Documentation**.
+For deeper integration, automation workflows, and developer-focused examples, continue to the [**CyberShield SDK Documentation**](https://app.gitbook.com/o/SxHNjM53o1ERQTNaTYLB/s/yTmI4uJy9foU4pDVRd80/).
