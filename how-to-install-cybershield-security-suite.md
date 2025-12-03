@@ -4,7 +4,7 @@
 
 ***
 
-### 💻 Before You Begin
+### Before You Begin
 
 Make sure your system meets the requirements:
 
@@ -14,7 +14,7 @@ Make sure your system meets the requirements:
 
 ***
 
-### 🧾 Steps&#x20;
+### Steps
 
 1. Go to [https://cybershield.com/download](https://cybershield.com/download).
 2. Select your operating system and click **Download Now**.

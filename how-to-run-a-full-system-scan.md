@@ -4,7 +4,7 @@
 
 ***
 
-### 🧾 Steps
+### Steps
 
 1. Open **CyberShield Security Suite**.
 2. Click 🦠 **Antivirus** in the sidebar.
@@ -16,4 +16,4 @@
 5. Review results under **Summary Report**.
 6. Click **Resolve All** to quarantine or remove detected threats.
 
-💡 **Tip:** Continue working while the scan runs in the background.
+> 💡 **Tip:** Continue working while the scan runs in the background.

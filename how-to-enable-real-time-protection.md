@@ -2,7 +2,7 @@
 
 **Article Summary:** Learn how to turn on real-time scanning to continuously protect your system.
 
-**Steps**
+### **Steps**
 
 1. Go to **CyberShield Security Suite → Antivirus**.
 2. Select the **Protection Settings** tab.

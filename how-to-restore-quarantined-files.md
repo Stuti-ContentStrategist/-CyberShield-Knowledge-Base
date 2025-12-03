@@ -2,7 +2,7 @@
 
 **Article Summary:** Learn how to review and restore safe files that were quarantined by CyberShield.
 
-**Steps**
+### **Steps**
 
 1. Open **CyberShield Security Suite**.
 2. Click **Antivirus → Quarantine**.
@@ -12,4 +12,4 @@
 
 <figure><img src=".gitbook/assets/CyberShield Quarantine.png" alt="CyberShield Quarantine panel displaying a list of quarantined files with Restore and Delete options."><figcaption><p><em>Figure 7: Quarantine panel displaying a list of quarantined files with restore and delete options.</em></p></figcaption></figure>
 
-⚠️ **Caution:** Only restore files you are certain are safe.
+> **Caution:** Only restore files you are certain are safe.
