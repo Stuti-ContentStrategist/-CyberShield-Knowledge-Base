@@ -5,7 +5,7 @@
 ### **Steps**
 
 1. Open **CyberShield Security Suite**.
-2. Click ❓ **Help** in the sidebar.
+2. Click **Help** in the sidebar.
 3. Select **Contact Support**.
 4. Choose your issue category (Installation, License, Threat Detection, etc.).
 5. Fill out the support form and click **Submit Request**.

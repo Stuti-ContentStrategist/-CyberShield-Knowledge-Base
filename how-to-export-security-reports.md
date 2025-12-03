@@ -6,7 +6,7 @@
 
 ### Steps
 
-1. Click **📊 Reports** in the sidebar.
+1. Click **Reports** in the sidebar.
 2. Choose the report type — _Threat Summary_, _Scan History_, or _Compliance_.
 3. Use the **Date Filter** to select a range.
 4. Click **Export → PDF** or **Export → CSV**.
