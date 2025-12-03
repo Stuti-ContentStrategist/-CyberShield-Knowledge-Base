@@ -1,4 +1,4 @@
-# 🧰 How to Restore Quarantined Files
+# How to Restore Quarantined Files
 
 **Article Summary:** Learn how to review and restore safe files that were quarantined by CyberShield.
 

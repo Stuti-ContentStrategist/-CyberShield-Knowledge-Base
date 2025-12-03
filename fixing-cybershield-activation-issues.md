@@ -1,4 +1,4 @@
-# 🔐 Fixing CyberShield Activation Issues
+# Fixing CyberShield Activation Issues
 
 **Article Summary:** Learn what to do if CyberShield fails to activate.
 

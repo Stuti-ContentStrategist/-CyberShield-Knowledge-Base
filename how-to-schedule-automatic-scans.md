@@ -1,4 +1,4 @@
-# ⏰ How to Schedule Automatic Scans
+# How to Schedule Automatic Scans
 
 **Article Summary:** Set up CyberShield to run regular scans automatically.
 

@@ -1,4 +1,4 @@
-# 🔐 How to Enable Real-Time Protection
+# How to Enable Real-Time Protection
 
 **Article Summary:** Learn how to turn on real-time scanning to continuously protect your system.
 

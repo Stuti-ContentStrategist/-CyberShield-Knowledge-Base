@@ -1,4 +1,4 @@
-# 🐢 Troubleshooting Slow Scans
+# Troubleshooting Slow Scans
 
 **Article Summary:** Fix performance issues when CyberShield scans take longer than usual.
 

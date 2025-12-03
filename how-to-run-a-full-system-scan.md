@@ -1,4 +1,4 @@
-# 🦠 How to Run a Full System Scan
+# How to Run a Full System Scan
 
 **Article Summary:** Learn how to scan your entire system for malware and threats.
 

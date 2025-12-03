@@ -1,4 +1,4 @@
-# 🧩 How to Install CyberShield Security Suite
+# How to Install CyberShield Security Suite
 
 **Article Summary:** Learn how to download, install, and activate CyberShield on your device.
 

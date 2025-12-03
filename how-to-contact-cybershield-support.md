@@ -1,4 +1,4 @@
-# 📋 How to Contact CyberShield Support
+# How to Contact CyberShield Support
 
 **Article Summary:** Learn how to reach the CyberShield support team for technical assistance.
 

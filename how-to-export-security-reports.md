@@ -1,4 +1,4 @@
-# 📊 How to Export Security Reports
+# How to Export Security Reports
 
 **Article Summary:** Export CyberShield’s security or threat reports for compliance or analysis.
 

@@ -1,4 +1,4 @@
-# 🧱 How to Update CyberShield Security Suite
+# How to Update CyberShield Security Suite
 
 **Article Summary:** Learn how to check for and install the latest CyberShield updates.
 

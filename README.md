@@ -1,4 +1,4 @@
-# 💡 CyberShield Knowledge Base
+# CyberShield Knowledge Base
 
 ## Overview
 
